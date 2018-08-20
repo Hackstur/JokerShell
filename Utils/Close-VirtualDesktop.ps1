@@ -1,4 +1,5 @@
-﻿Function CloseVirtualDesktopInWin10 
+﻿#CREDITS: https://gallery.technet.microsoft.com/scriptcenter/How-to-close-all-Virtual-b7eb8269
+Function CloseVirtualDesktopInWin10 
 { 
     $KeyShortcut = Add-Type -MemberDefinition @" 
     [DllImport("user32.dll")] 

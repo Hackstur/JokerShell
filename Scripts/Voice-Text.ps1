@@ -1,4 +1,3 @@
-#requires -version 2
 <#
 .SYNOPSIS
   Speak text using text-to-speech windows utility
@@ -14,3 +13,4 @@
 Add-Type -AssemblyName System.speech
 $TTS = New-Object System.Speech.Synthesis.SpeechSynthesizer
 $TTS.Speak('Ja ge Ji Jo jhu. You have been Powned!')
+exit

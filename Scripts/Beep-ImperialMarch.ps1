@@ -1,4 +1,3 @@
-#requires -version 2
 <#
 .SYNOPSIS
   Star-Wars "Imperial March" with system beeps.
@@ -49,3 +48,4 @@
 [console]::beep(455,250)
 [console]::beep(590,700) #until here it is tolerable 
 [console]::beep(590,700)
+exit

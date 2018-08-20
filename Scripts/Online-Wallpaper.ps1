@@ -1,4 +1,3 @@
-#requires -version 2
 <#
 .SYNOPSIS
   Change windows wallpaper from internet image.

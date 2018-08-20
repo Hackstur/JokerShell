@@ -1,4 +1,3 @@
-#requires -version 2
 <#
 .SYNOPSIS
   Lorem ipsum dolor sit amet, consectetur adipiscing.
@@ -12,3 +11,5 @@
 .EXAMPLE
   Example code.
 #>
+
+exit

@@ -1,4 +1,3 @@
-#requires -version 2
 <#
 .SYNOPSIS
   Change windows wallpaper from embed Base64 String

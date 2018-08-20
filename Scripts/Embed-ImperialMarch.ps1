@@ -1,4 +1,3 @@
-#requires -version 2
 <#
 .SYNOPSIS
   Star-Wars "Imperial March" from embed Base64 String
@@ -18,3 +17,4 @@ Set-Content -Path $File -Value $Data -Encoding Byte
 $Player = New-Object System.Windows.Media.MediaPlayer
 $Player.Open($File)
 $Player.Play()
+exit
