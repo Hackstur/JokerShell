@@ -7,7 +7,7 @@
   Start fake Windows 10 update website in fullscreen mode usin IE
 .NOTES
   Version:        1.0
-  Author:         Hacksturcon
+  Author:         Hackstur
   Creation Date:  19/08/2018
 .EXAMPLE
   Just run the script.

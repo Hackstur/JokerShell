@@ -12,7 +12,7 @@
   Try to freez the PC creating, on infinite loop, a powershell console who runs this same script
 .NOTES
   Version:        1.0
-  Author:         Hacksturcon (G.R.G)
+  Author:         Hackstur (G.R.G)
   Creation Date:  19/08/2018
 .EXAMPLE
   Just run the script.
