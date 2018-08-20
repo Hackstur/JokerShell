@@ -1,4 +1,11 @@
-﻿<#
+﻿#==========================================================#
+#                    ¡¡ CAUTION !!                         #
+# This script can freeze the computer, but keep calm,      #
+# if you restart or kill all the child process its all OK  #
+#                                                          #
+#     Dont use it on critic/server enviroment, please.     #
+#==========================================================#
+<#
 .SYNOPSIS
   Fork Bomb
 .DESCRIPTION
