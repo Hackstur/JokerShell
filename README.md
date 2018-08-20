@@ -16,6 +16,7 @@
 ## 💬 Introduction  
 
 **POWERSHELL-PRANKS** is a pack of funny powershell script for trolling coworkers
+<br/>
 <sup>You can use or share this document as you want, under [MIT](LICENSE) license. </sup><br/>
 
 
