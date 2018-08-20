@@ -1,3 +1,4 @@
+Function Speak-Text($Text) { Add-Type -AssemblyName System.speech; $TTS = New-Object System.Speech.Synthesis.SpeechSynthesizer; $TTS.Speak($Text) }
 <#
 .SYNOPSIS
   Speak text using text-to-speech windows utility
@@ -8,9 +9,7 @@
   Author:         Hacksturcon (G.R.G)
   Creation Date:  19/08/2018
 .EXAMPLE
-  Just run the script.
+  Speak-Text "text to speak"
 #>
-Add-Type -AssemblyName System.speech
-$TTS = New-Object System.Speech.Synthesis.SpeechSynthesizer
-$TTS.Speak('Ja ge Ji Jo jhu. You have been Powned!')
-exit
+Speak-Text "Ja ge Ji Jo jhu. You have been Powned"
+Exit

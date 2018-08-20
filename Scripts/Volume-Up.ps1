@@ -10,4 +10,5 @@
 .EXAMPLE
   Just run the script.
 #>
-$WScript = new-object -com wscript.shell; 1..50 | % { $WScript.SendKeys([char]175) }; exit
+$WScript = New-Object -com wscript.shell; 1..50 | % { $WScript.SendKeys([char]175) }; 
+Exit
