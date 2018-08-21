@@ -2,12 +2,15 @@
 .SYNOPSIS
   Lorem ipsum dolor sit amet, consectetur adipiscing.
 .DESCRIPTION
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+  This Script is Part of Powershell-Pranks project.
 .NOTES
   Version:        1.0
-  Author:         Hackstur
+  Author:         Hackstur (G.R.G.)
   Creation Date:  19/08/2018
-  Purpose/Change: Initial script development
+.LINK
+  https://github.com/Hackstur/PowerShell-Pranks
 .EXAMPLE
   Example code.
 #>

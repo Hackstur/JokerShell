@@ -2,11 +2,15 @@
 .SYNOPSIS
   Star-Wars "Imperial March" from embed Base64 String
 .DESCRIPTION
-  Star-Wars "Imperial March" from embed Base64 String
+  The .MID file are stored at %UserProfile% folder with a GUID by name, and played by windows media player in background.
+
+  This Script is Part of Powershell-Pranks project.
 .NOTES
   Version:        1.0
-  Author:         Hackstur (G.R.G)
+  Author:         Hackstur (G.R.G.)
   Creation Date:  19/08/2018
+.LINK
+  https://github.com/Hackstur/PowerShell-Pranks
 .EXAMPLE
   Just run the script.
 #>

@@ -2,13 +2,15 @@
 .SYNOPSIS
   Fake WannaCrypt prank (Win10)
 .DESCRIPTION
-  Required:   Internet Connection
+  Start fake WannaCrypt website in fullscreen mode usin IE.
 
-  Start fake WannaCrypt website in fullscreen mode usin IE
+  This Script is Part of Powershell-Pranks project.
 .NOTES
   Version:        1.0
-  Author:         Hackstur
+  Author:         Hackstur (G.R.G.)
   Creation Date:  19/08/2018
+.LINK
+  https://github.com/Hackstur/PowerShell-Pranks
 .EXAMPLE
   Just run the script.
 #>

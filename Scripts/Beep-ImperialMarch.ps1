@@ -2,56 +2,76 @@ Function Bp($freq,$time){ [console]::beep($freq, $time) }
 Function Slp($time){ Start-Sleep -m $time }  
 <#
 .SYNOPSIS
-  Star-Wars "Imperial March" with system beeps.
+  Star-Wars "Imperial March" with beeps.
 .DESCRIPTION
-  Star-Wars "Imperial March" with system beeps.
+  Plays Star-Wars "Imperial March" with system Beeps & Pauses.
+
+  This Script is Part of Powershell-Pranks project.
 .NOTES
   Version:        1.0
-  Author:         Hackstur G.R.G
+  Author:         Hackstur (G.R.G.)
   Creation Date:  19/08/2018
+.LINK
+  https://github.com/Hackstur/PowerShell-Pranks
 .EXAMPLE
   Just run the script.
-
-  Or use the functions for make your own:
-  BpFrequency  Milliseconds for play "Beep"
-  SlpMilliseconds for "Sleep" the script
 #>
 Bp 440 500
+Slp 30
 Bp 440 500
+Slp 30
 Bp 440 500
+Slp 30
 Bp 349 350
+Slp 30
 Bp 523 150
+Slp 30
 Bp 440 500
+Slp 30
 Bp 349 350
+Slp 30
 Bp 523 150
+Slp 30
 Bp 440 900
-Bp 523 1300
-Bp 659 500
-Bp 659 500
-Bp 659 500
+Slp 50
+Bp 640 500
+Slp 30
+Bp 640 500
+Slp 30
+Bp 640 500
+Slp 30
 Bp 698 350
+Slp 30
 Bp 523 150
+Slp 30
 Bp 415 500
+Slp 30
 Bp 349 350
+Slp 30
 Bp 523 150
+Slp 30
 Bp 440 900
-Bp 523 1300
+Slp 50
 Bp 880 500
-Bp 880  545
-Bp 440  409
-Bp 440  136
-Bp 880  545
-Bp 831  273
-Bp 784  273
+Slp 30
+Bp 880 545
+Slp 30
+Bp 440 409
+Slp 30
+Bp 440 136
+Slp 30
+Bp 880 545
+Slp 30
+Bp 831 273
+Slp 30
+Bp 784 273
+Slp 30
 Bp 740 125
+Slp 30
 Bp 700 225
+Slp 20
 Bp 455 250
+Slp 10
 Bp 590 700
-Bp 831  273
-Bp 784  273
-Bp 740 125
-Bp 700 225
-Bp 455 250
-Bp 590 700 #until here it is tolerable 
-Bp 590 700
+Slp 50
 Exit

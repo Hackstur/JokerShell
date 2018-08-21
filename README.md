@@ -15,12 +15,10 @@
 
 ## 💬 Introduction  
 
-**POWERSHELL-PRANKS** is a pack of funny powershell scripts for trolling coworkers
+**POWERSHELL-PRANKS** is a pack of funny powershell scripts for trolling coworkers (or wathever you want).
 <br/>
 <sup>You can use or share this document as you want, under [MIT](LICENSE) license. </sup><br/>
 
-
-<img align="right" float="left" src="http://via.placeholder.com/400x200?text=d.^_^.b"/>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -45,7 +43,16 @@
 ## 🏅 Features
 
 <!-- FEATURES ACHIEVED -->
-I would love to have a great list of features and make one section for it, but it will not be like that. You'll be glad of the introduction ones.
+I would love to have a great list of features and make one section for it, but it will not be like that. You'll be glad of this little list.
+
+#### Kind of Pranks Included
+- Wallpaper Change (Embed & Online)
+- Play Music (Embed & Beep)
+- Speak Text (Text-to-Speech)
+- Install/Update OS (Online)
+- Fork Bombs (The Basics)
+- Key Press Emulation (Maximum Volume, Mute, Window Jammer...etc)
+
 
 <!-- INSTALLATION  SECTION -->
 

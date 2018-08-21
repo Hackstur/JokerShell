@@ -7,10 +7,14 @@
   
   There is a reason to add multiple profile update commands: Windows doesnt update the profile all times.
   If you wait a little, the updating command will work, but if you are updated the profile recently its better repeat a few times.
+
+  This Script is Part of Powershell-Pranks project.
 .NOTES
   Version:        1.0
-  Author:         Hackstur (G.R.G)
+  Author:         Hackstur (G.R.G.)
   Creation Date:  19/08/2018
+.LINK
+  https://github.com/Hackstur/PowerShell-Pranks
 .EXAMPLE
   Just run the script.
 #>

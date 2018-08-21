@@ -2,19 +2,19 @@
 Function Slp($time){ Start-Sleep -m $time }  
 <#
 .SYNOPSIS
-  Star-Wars "Super Mario" with system beeps.
+  Star-Wars "Super Mario" with beeps.
 .DESCRIPTION
-  Star-Wars "Super Mario" with system beeps.
+  Plays Star-Wars "Super Mario" with system Beeps & Pauses.
+
+  This Script is Part of Powershell-Pranks project.
 .NOTES
   Version:        1.0
-  Author:         Hackstur G.R.G
+  Author:         Hackstur (G.R.G.)
   Creation Date:  19/08/2018
+.LINK
+  https://github.com/Hackstur/PowerShell-Pranks
 .EXAMPLE
   Just run the script.
-
-  Or use the functions for make your own:
-  BpFrequency  Milliseconds for play "Beep"
-  SlpMilliseconds for "Sleep" the script
 #>
 Bp 660 100
 Slp 70
