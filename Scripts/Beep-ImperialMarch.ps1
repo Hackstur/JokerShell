@@ -17,61 +17,32 @@ Function Slp($time){ Start-Sleep -m $time }
   Just run the script.
 #>
 Bp 440 500
-Slp 30
 Bp 440 500
-Slp 30
 Bp 440 500
-Slp 30
 Bp 349 350
-Slp 30
 Bp 523 150
-Slp 30
 Bp 440 500
-Slp 30
 Bp 349 350
-Slp 30
 Bp 523 150
-Slp 30
 Bp 440 900
-Slp 50
 Bp 640 500
-Slp 30
 Bp 640 500
-Slp 30
 Bp 640 500
-Slp 30
 Bp 698 350
-Slp 30
 Bp 523 150
-Slp 30
 Bp 415 500
-Slp 30
 Bp 349 350
-Slp 30
 Bp 523 150
-Slp 30
 Bp 440 900
-Slp 50
 Bp 880 500
-Slp 30
 Bp 880 545
-Slp 30
 Bp 440 409
-Slp 30
 Bp 440 136
-Slp 30
 Bp 880 545
-Slp 30
 Bp 831 273
-Slp 30
 Bp 784 273
-Slp 30
 Bp 740 125
-Slp 30
 Bp 700 225
-Slp 20
 Bp 455 250
-Slp 10
 Bp 590 700
-Slp 50
 Exit

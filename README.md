@@ -51,16 +51,21 @@ I would love to have a great list of features and make one section for it, but i
 - Speak Text (Text-to-Speech)
 - Install/Update OS (Online)
 - Fork Bombs (The Basics)
-- Key Press Emulation (Maximum Volume, Mute, Window Jammer...etc)
+- Key Press Emulation (Maximum Volume, Mute...etc)
 
+TO-DO:
+ - Ha Ha Ha Nedri prank script
+ - Window jammer prank scripts
+ - Maybe more Fork-Bombs
+ - Maybe script persistance at reboot (ugly fork-bombs)
 
 <!-- INSTALLATION  SECTION -->
 
 ## 🏭 Installation
-1. Download/Fork/Copy/Get this file  
-1. Edit as you want  
+1. Download/Fork/Copy/Get this project.  
+1. Edit as you want  .
 1. Place it on the folder of your choice.
-1. Run the script as usual (isnt functions, by now)
+1. Run the script as usual (not a lot of functions or cmdlets, by now).
 
 #### Requirements  
 * Windows host who run PowerShell scripting
@@ -74,7 +79,7 @@ Please, have a look at the [Contributor Covenant][contributor covenant].
 
 <!-- TEAM -->
 
-## 🏀 Team  
+## 🏀 Team
 Only me.
 
 <!-- LICENSE -->
