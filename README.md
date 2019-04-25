@@ -1,6 +1,6 @@
 <!------------------- HEADER SECTION -------------------------->
 <header>
- <h1 align="center"><strong> d｡◕‿↼｡bづ </strong><br/>POWERSHELL-PRANKS</h1>
+ <h1 align="center"><strong> d｡◕‿↼｡bづ </strong><br/>JOKERSHELL</h1>
   <!-- BADGET BUTTONS -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
@@ -15,7 +15,7 @@
 
 ## 💬 Introduction  
 
-**POWERSHELL-PRANKS** is a pack of funny powershell scripts for trolling coworkers (or wathever you want).
+**JOKERSHELL** is a pack of funny powershell scripts for trolling coworkers (or wathever you want).
 <br/>
 <sup>You can use or share this document as you want, under [MIT](LICENSE) license. </sup><br/>
 
