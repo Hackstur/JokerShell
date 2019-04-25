@@ -1,6 +1,6 @@
 <!------------------- HEADER SECTION -------------------------->
 <header>
- <h1 align="center"><strong>  d｡◕‿↼｡bづ </strong><br/>JOKERSHELL</h1>
+ <h1 align="center"><strong>d｡◕‿↼｡bづ</strong><br/>JOKERSHELL</h1>
   <!-- BADGET BUTTONS -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
