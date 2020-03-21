@@ -46,12 +46,10 @@
 I would love to have a great list of features and make one section for it, but it will not be like that. You'll be glad of this little list.
 
 #### Kind of Pranks Included
-- Wallpaper Change (Embed & Online)
-- Play Music (Embed & Beep)
-- Speak Text (Text-to-Speech)
-- Install/Update OS (Online)
-- Fork Bombs (The Basics)
-- Key Press Emulation (Maximum Volume, Mute...etc)
+- Wallpaper Change
+- Play Music
+- Speak Text
+- Fork Bombs
 
 TO-DO:
  - Ha Ha Ha Nedri prank script
