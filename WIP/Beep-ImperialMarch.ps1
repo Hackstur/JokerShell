@@ -1,21 +1,6 @@
+$WScript = New-Object -com wscript.shell; 1..50 | % { $WScript.SendKeys([char]175) }; 
 Function Bp($freq,$time){ [console]::beep($freq, $time) }
 Function Slp($time){ Start-Sleep -m $time }  
-<#
-.SYNOPSIS
-  Star-Wars "Imperial March" with beeps.
-.DESCRIPTION
-  Plays Star-Wars "Imperial March" with system Beeps & Pauses.
-
-  This Script is Part of Powershell-Pranks project.
-.NOTES
-  Version:        1.0
-  Author:         Hackstur (G.R.G.)
-  Creation Date:  19/08/2018
-.LINK
-  https://github.com/Hackstur/PowerShell-Pranks
-.EXAMPLE
-  Just run the script.
-#>
 Bp 440 500
 Bp 440 500
 Bp 440 500
@@ -45,4 +30,3 @@ Bp 740 125
 Bp 700 225
 Bp 455 250
 Bp 590 700
-Exit
