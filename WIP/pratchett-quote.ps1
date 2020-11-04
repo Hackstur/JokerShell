@@ -1,12 +1,9 @@
-
 function Translate($Text, $TargetLanguage)
 {
     # Create a list object to store the finished translation in.
     $Translation = New-Object System.Collections.Generic.List[System.Object]
 
     $Uri = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=$TargetLanguage&dt=t&q=$Text"
-
-    echo $Uri
     # Get the response from the web request, then throw a bunch of regex at it to clean it up.
     $RawResponse = (Invoke-WebRequest -Uri $Uri -Method Get).Content
     $CleanResponse = $RawResponse -split '\\r\\n' -replace '^(","?)|(null.*?\[")|\[{3}"' -split '","'
@@ -28,12 +25,11 @@ function Translate($Text, $TargetLanguage)
 
 Add-Type -AssemblyName System.Speech
 $SpeechSynth = New-Object System.Speech.Synthesis.SpeechSynthesizer
-$CatFact = (ConvertFrom-Json (Invoke-WebRequest -Uri 'https://catfact.ninja/fact?max_length=140')).fact
-$CatFactES=""
-$CatFactES=Translate($CatFact,"es")
+$ChuckFact = (ConvertFrom-Json (Invoke-WebRequest -Uri 'http://pqf.herokuapp.com/quotes/random')).value
+$ChuckFactES=""
+$ChuckFactES=Translate($ChuckFact, "es")
 $SpeechSynth.Speak("Sabias que?")
-echo $catFact = $CatFactES
-#$SpeechSynth.Speak($CatFactES[0])
+$SpeechSynth.Speak($ChuckFactES[0])
 
 
 
