@@ -19,6 +19,11 @@
 <br/>
 <sup>You can use or share this document as you want, under [MIT](LICENSE) license. </sup><br/>
 
+`21`  Different kind of prank scripts (some has different versions)<br/>
+`02`  Builder Prank Tools<br/>
+`12`  Testing prank scripts</br>
+
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -50,12 +55,9 @@ I would love to have a great list of features and make one section for it, but i
 - Play Music
 - Speak Text
 - Fork Bombs
-
-TO-DO:
- - Ha Ha Ha Nedri prank script
- - Window jammer prank scripts
- - Maybe more Fork-Bombs
- - Maybe script persistance at reboot (ugly fork-bombs)
+- Desktop Pet (embed exe)
+- Screen rotation
+- Fake update/install
 
 <!-- INSTALLATION  SECTION -->
 
@@ -64,6 +66,14 @@ TO-DO:
 1. Edit as you want  .
 1. Place it on the folder of your choice.
 1. Run the script as usual (not a lot of functions or cmdlets, by now).
+
+#### Deployment ideas
+
+You can access to the computer and run the script ass usual, or you can try:
+
+* P4wnP1 ALOA https://github.com/RoganDawes/P4wnP1_aloa
+* RubberDucky https://shop.hak5.org/products/usb-rubber-ducky-deluxe
+* Malduino https://malduino.com/
 
 #### Requirements  
 * Windows host who run PowerShell scripting
