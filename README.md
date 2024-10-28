@@ -19,9 +19,8 @@
 <br/>
 <sup>You can use or share this document as you want, under [MIT](LICENSE) license. </sup><br/>
 
-`21`  Different kind of prank scripts (some has different versions)<br/>
+`35`  Different kind of prank scripts (some its the same with other image or URL)<br/>
 `02`  Builder Prank Tools<br/>
-`12`  Testing prank scripts</br>
 
 
 
@@ -50,14 +49,27 @@
 <!-- FEATURES ACHIEVED -->
 I would love to have a great list of features and make one section for it, but it will not be like that. You'll be glad of this little list.
 
-#### Kind of Pranks Included
-- Wallpaper Change
-- Play Music
-- Speak Text
-- Fork Bombs
-- Desktop Pet (embed exe)
-- Screen rotation
-- Fake update/install
+
+| TYPE          | Description                                    | 
+|-------------  |------------------------------------------------|
+| **Browser**   | Fake Update OS (XP/VISTA/8/10/11/OSX/STEAM)    | 
+| **Browser**   | Fake Install Windows OS (10/11)                | 
+| **Browser**   | Fake Wannacrypt Malware                        | 
+| **Browser**   | Video Pranks (Rick-Roll, Gandalf-Sax, etc)     | 
+| **Browser**   | Tab & Window Explosion Pranks                  | 
+| **ForkBomb**  | 5 types of Powershell ForkBombs                | 
+| **NSFW**      | Shortcuts that reboots computer                | 
+| **Sound**     | Play Beep music (Happy Birthday, Super Mario..)| 
+| **Sound**     | Play embed music file (Imperial March)         |
+| **Sound**     | Text to Speech Jokes or Quotes                 |
+| **System**    | Embed Desktop Pet (Sheep)                      |
+| **System**    | Powershell Console Rick-Roll                   |
+| **System**    | Power Off Screen                               |
+| **System**    | Desktop Shortcut Explosion                     |
+| **Wallpapers**| Hasselhoff & Carmen de mairena wallpapers      |
+| **Tools**     | Builders for music or wallpaper payloads       |
+
+
 
 <!-- INSTALLATION  SECTION -->
 
@@ -65,11 +77,11 @@ I would love to have a great list of features and make one section for it, but i
 1. Download/Fork/Copy/Get this project.  
 1. Edit as you want  .
 1. Place it on the folder of your choice.
-1. Run the script as usual (not a lot of functions or cmdlets, by now).
+1. Run a script.
 
 #### Deployment ideas
 
-You can access to the computer and run the script ass usual, or you can try:
+You can access to the computer and run the script as usual, or you can try tools like:
 
 * P4wnP1 ALOA https://github.com/RoganDawes/P4wnP1_aloa
 * RubberDucky https://shop.hak5.org/products/usb-rubber-ducky-deluxe
